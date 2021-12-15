@@ -1,3 +1,3 @@
 # OnBoardSwiftUI-Netflix
 Netflix Onboarding made with SwiftUI.
-![netflixop](https://user-images.githubusercontent.com/70090469/146218250-5178ce0c-ee9f-4efe-9b97-9b54c02d95ff.png)
+![netop](https://user-images.githubusercontent.com/70090469/146218308-b6c7f4c6-f987-4d8d-bd05-b43933212061.png)
